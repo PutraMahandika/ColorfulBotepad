@@ -1,0 +1,3 @@
+jika program tidak berjalan/error, mohon modifikasi sedikit code program
+ColorfulNotepad.py
+di dalam code program akan ada sedikit keterangan untuk menghindari error
